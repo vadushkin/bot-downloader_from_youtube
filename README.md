@@ -15,7 +15,7 @@ git clone https://github.com/vadushkin/bot-downloader_from_youtube.git
 * Перейти в репозиторий:
 
 ```
-cd bot_downloads_audio_from_yt
+cd bot-downloader_from_youtube
 ```
 
 * Запустить виртуальную среду
